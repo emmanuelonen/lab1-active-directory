@@ -138,4 +138,4 @@ During DC promotion, the AD DS installer creates the DNS zone for `lab.local` lo
 ---
 
 *Part of a structured cloud engineering learning path — AZ-900 → AZ-104 → AI-102 → AZ-400*
-*Emmanuel Onen · Senior Systems Engineer · Kirk IT, Cayman Islands*
+*Emmanuel Onen · Senior Systems Engineer · Cayman Islands*
